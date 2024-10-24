@@ -5,6 +5,5 @@
   ],
   "routes": [
     { "src": "/(.*)", "dest": "api_garbage_v3.py" }
-  ],
-  "pythonVersion": "3.9"
+  ]
 }
